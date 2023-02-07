@@ -1,5 +1,8 @@
+longbridge
 jupyter
 numpy
 pandas
 matplotlib
-longbridge
+cufflinks
+plotly
+scikit_learn
